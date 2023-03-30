@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryemkhaoua&label=Profile%20views&color=0e75b6&style=flat" alt="maryemkhaoua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryemkhaoua" alt="maryemkhaoua" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/maryem_khaoua" target="blank"><img src="https://img.shields.io/twitter/follow/maryem_khaoua?logo=twitter&style=for-the-badge" alt="maryem_khaoua" /></a> </p>
 
 - 🌱 I’m currently learning **C language**
 
@@ -26,5 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maryemkhaoua&show_icons=true&locale=en" alt="maryemkhaoua" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maryemkhaoua&" alt="maryemkhaoua" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryemkhaoua" alt="maryemkhaoua" /></a> </p>
 
 <h1 align="center" style="color:#FC7300;">𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐🌟 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!</h1>
