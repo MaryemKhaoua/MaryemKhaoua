@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Maryem</h1>
-<h3 align="center">𝘼 𝙜𝙞𝙧𝙡 𝙬𝙝𝙤 𝙇𝙤𝙫𝙚𝙨 𝙩𝙤 𝘾𝙤𝙙𝙚 👩🏻‍💻 from Morocco</h3>
+<h3 align="center">𝘼 𝙜𝙞𝙧𝙡 𝙬𝙝𝙤 𝙇𝙤𝙫𝙚𝙨 𝙩𝙤 𝘾𝙤𝙙𝙚 👩🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryemkhaoua&label=Profile%20views&color=0e75b6&style=flat" alt="maryemkhaoua" /> </p>
 
