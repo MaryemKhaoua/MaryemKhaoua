@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning C language/HTML/CSS/JavaScript<br>⚡ Fun fact : Tea fuels my code creativity☕💻
+🌱 I’m currently learning JavaScript/PHP<br>⚡ Fun fact : Tea fuels my code creativity☕💻
 
 
 ## 🌐 Socials:
