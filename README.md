@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Laravel/Vue.Js<br>⚡ Fun fact : Tea fuels my code creativity☕💻
+🌱 I’m currently learning Java<br>⚡ Fun fact : Tea fuels my code creativity☕💻
 
 
 ## 🌐 Socials:
